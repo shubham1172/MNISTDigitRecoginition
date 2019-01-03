@@ -20,5 +20,5 @@ $ python3 play.py
 I have used the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for training the CNN. It contains a training set of 60,000 examples, and a test set of 10,000 examples of handwritten digits.
 
 ###  Results
-![screenshot](docs/images/screenshot.png)
+![screenshot](docs/images/screenshot.png) <br>
 The screenshot shows a sample prediction for the digit '2'.
